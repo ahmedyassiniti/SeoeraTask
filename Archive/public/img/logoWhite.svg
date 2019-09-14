@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128.839 189">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        font-size: 51px;
+      }
+
+      .cls-2, .cls-3 {
+        font-family: CoconNextArabic-Light, CoconÆ Next Arabic;
+        font-weight: 300;
+      }
+
+      .cls-3 {
+        font-size: 18px;
+      }
+    </style>
+  </defs>
+  <g id="Group_253" data-name="Group 253" transform="translate(-896 -5944)">
+    <g id="Group_1" data-name="Group 1" transform="translate(896 5944)">
+      <path id="Path_1" data-name="Path 1" class="cls-1" d="M63.676,53.387v7.891H0c.091-3.855.334-7.709.668-11.564.546-6.556.85-14.022,4.006-19.94A57.93,57.93,0,0,1,29.319,6.04,54.441,54.441,0,0,1,53.387,0h75.452V26.527H57.7s-20.274-.88-23.552,13.112V53.053Z" transform="translate(0)"/>
+      <path id="Path_2" data-name="Path 2" class="cls-1" d="M65.163,130.291V122.4h63.676c-.091,3.855-.334,7.709-.668,11.564-.546,6.586-.85,14.052-4.006,19.94A58,58,0,0,1,99.52,177.669a54.957,54.957,0,0,1-24.068,6.04H0V157.182H71.112s20.274.88,23.552-13.112V130.655Z" transform="translate(0 -85.251)"/>
+    </g>
+    <text id="سيبان" class="cls-2" transform="translate(906 6102.325)"><tspan x="0" y="0">سيبان</tspan></text>
+    <text id="للخدمات_الامنية" data-name="للخدمات الامنية" class="cls-3" transform="translate(910 6129)"><tspan x="0" y="0">للخدمات الامنية</tspan></text>
+  </g>
+</svg>

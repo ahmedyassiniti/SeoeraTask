@@ -1,0 +1,16 @@
+<svg id="Group_16" data-name="Group 16" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 115.076 118.656">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1a436a;
+      }
+    </style>
+  </defs>
+  <ellipse id="Ellipse_4" data-name="Ellipse 4" class="cls-1" cx="5.721" cy="5.721" rx="5.721" ry="5.721" transform="translate(20.49 83.172)"/>
+  <ellipse id="Ellipse_5" data-name="Ellipse 5" class="cls-1" cx="5.721" cy="5.721" rx="5.721" ry="5.721" transform="translate(41.515 83.172)"/>
+  <ellipse id="Ellipse_6" data-name="Ellipse 6" class="cls-1" cx="5.721" cy="5.721" rx="5.721" ry="5.721" transform="translate(62.118 83.172)"/>
+  <ellipse id="Ellipse_7" data-name="Ellipse 7" class="cls-1" cx="5.721" cy="5.721" rx="5.721" ry="5.721" transform="translate(85.032 83.172)"/>
+  <ellipse id="Ellipse_8" data-name="Ellipse 8" class="cls-1" cx="5.721" cy="5.721" rx="5.721" ry="5.721" transform="translate(62.118 63.696)"/>
+  <path id="Path_8" data-name="Path 8" class="cls-1" d="M97.179,11.443h-.7a11.457,11.457,0,0,0-22.914,0H43.4a11.457,11.457,0,0,0-22.914,0H17.869A17.874,17.874,0,0,0,0,29.312H0v71.475a17.874,17.874,0,0,0,17.869,17.869H97.207a17.874,17.874,0,0,0,17.869-17.869V29.34h0A17.922,17.922,0,0,0,97.179,11.443Zm5.891,89.034a5.365,5.365,0,0,1-5.327,5.355H18.094a5.353,5.353,0,0,1-5.355-5.355V54.339h90.33Z"/>
+  <ellipse id="Ellipse_9" data-name="Ellipse 9" class="cls-1" cx="5.721" cy="5.721" rx="5.721" ry="5.721" transform="translate(85.032 63.696)"/>
+</svg>
